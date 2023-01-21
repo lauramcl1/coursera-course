@@ -1,0 +1,79 @@
+body {
+	font-size: 16px;
+	color: black;
+	background-color: white;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+#header-nav {
+	background-color: lightpink;
+	border-radius: 0;
+}
+
+.navbar-header {
+	height: 80px;
+	padding-top: 10px;
+}
+
+.navbar-brand {
+	padding-top: 5px;
+}
+
+.navbar-brand h1 {
+	font-size: 1.6em;
+	font-weight: bold;
+	margin-top: 0;
+	margin-bottom: 0;
+	padding-top: 7px;
+}
+
+.navbar-nav {
+	margin: 0px -15px;
+} 
+
+#first, #second, #third {
+	text-align: center;
+	font-size: 1.3em;
+}
+
+#first {
+	background-color: lightyellow;
+}
+
+#second {
+	background-color: lightgreen;
+}
+
+#third {
+	background-color: lightblue;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+	border: 1px solid black;
+}
+
+.navbar-toggle {
+	text-align: center;
+}
+
+#chicken-description {
+	border: 1px solid black;
+	padding: 20px;
+	width: 80%;
+	margin-right: auto;
+	margin-left: auto;
+	background-color: lightyellow;
+}
+
+h2 {
+	margin-bottom: 30px
+}
+
+h3 {
+	margin-top: 0px;
+}
+
+p {
+	height: 1000px;
+}
+
